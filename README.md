@@ -22,8 +22,8 @@ ___
    - [Homepage](https://invidious.io) | [Repo](https://github.com/iv-org/invidious)
    - [Public Instances](https://docs.invidious.io/instances)
    - [x] Open-Source
-   - [x] Self-Hostable | [Guide](https://docs.invidious.io/Installation.md)
-   - [x] Decentralized Options | [I2P](http://tube.i2p) | [Onion](https://github.com/iv-org/documentation/blob/master/Invidious-Instances.md#tor-onion-services) | [Loki](http://invidious.loki)
+   - [x] Self-Hostable | [Guide](https://docs.invidious.io/installation/)
+   - [x] Decentralized Options | [I2P](http://tube.i2p) | [Onion](https://docs.invidious.io/instances/) | [Loki](http://invidious.loki)
 
 - **Piped**
    - Alternative privacy-friendly YouTube frontend. Lightweight, no ads (Sponsorblock integrated), no tracking, 4K support and more. 
@@ -49,12 +49,12 @@ ___
 
 
 ### YouTube Music
-- **BeatBump**
+- **BeatBump [Archived]**
    - Privacy-friendly YouTube Music frontend built with Svelte. Supports device sync.
-   - [Main Instance](https://beatbump.ml) | [Repo](https://github.com/snuffyDev/Beatbump)
+   - [Main Instance](https://beatbump.io) | [Repo](https://github.com/snuffyDev/Beatbump)
    - Public Instances n/a
    - [x] Open-Source
-   - [x] Self-Hostable | [Guide](https://snuffydev.github.io/Beatbump/index.html#/docs/introduction/deploying)
+   - [x] Self-Hostable | [Archived Repo](https://github.com/snuffyDev/Beatbump)
 
 - **Hyperpipe**
    - A privacy-respecting frontend for YouTube Music, inspired by and built with the help of Piped
@@ -67,7 +67,7 @@ ___
 ### Reddit
 - **Teddit**
    - Privacy-focused lightweight Reddit frontend. No ads, no javascript. Provides an unofficial API. 
-   - [Main Instance](https://teddit.net) | [Repo](https://codeberg.org/teddit/teddit)
+   - [Main Instance](https://codeberg.org/teddit/teddit#instances) | [Repo](https://codeberg.org/teddit/teddit)
    - [Public Instances](https://github.com/teddit-net/teddit#instances)
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://codeberg.org/teddit/teddit#installation)
@@ -155,9 +155,9 @@ ___
 ### Quora
 - **Quetre**
    - Alternative front-end to Quora. It enables you to see answers without ads, trackers, and popups. Has an unofficial API.
-   - [Main Instance](https://quetre.herokuapp.com/) | [Repo](https://github.com/zyachel/quetre#instances)
+   - [Main Instance](https://quetre.iket.me) | [Repo](https://github.com/zyachel/quetre#instances)
    - [Public Instances](https://github.com/zyachel/quetre#instances)
-   - Pattern for Redirector: `*quora.com/*` to `https://quetre.herokuapp.com/$2`
+   - Pattern for Redirector: `*quora.com/*` to `https://quetre.iket.me/$2`
    - [x] Open-Source
    - [x] Self-Hostable | [Guide](https://github.com/zyachel/quetre#instances) | [Heroku Deploy](https://heroku.com/deploy?template=https://github.com/zyachel/quetre)
 
@@ -319,7 +319,7 @@ ___
 
 - **LibRedirect**
    - Maintained fork of Privacy Redirect with new services added and a refreshed UI.
-   - [Homepage & Download](https://libredirect.github.io) | [Repo](https://github.com/libredirect/libredirect)
+   - [Homepage & Download](https://libredirect.codeberg.page) | [Repo](https://github.com/libredirect/libredirect)
    - [x] Open-Source
 
 - **Redirector**
@@ -341,7 +341,7 @@ ___
 
 - **UntrackMe**
    - FOSS Android app that redirects to the alternative frontends of several services. Can also clean tracking parameters.
-   - [Download & Homepage](https://fedilab.app/wiki/untrackme) | [Repo](https://framagit.org/tom79/nitterizeme) 
+   - [Download & Homepage](https://fedilab.app/projects/untrackme/) | [Repo](https://framagit.org/tom79/nitterizeme) 
    - [x] Open-Source
 
 - **YunoHost**
